@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/pen">
+        <file>images/pen.png</file>
+        <file>images/bezier.png</file>
+        <file>images/PolyChain.jpg</file>
+    </qresource>
+</RCC>

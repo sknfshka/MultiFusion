@@ -1,0 +1,5 @@
+﻿<RCC>
+    <qresource prefix="/polygon" >
+        <file>images/polygon.png</file>
+    </qresource>
+</RCC>
